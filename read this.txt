@@ -1,2 +1,5 @@
 Read this
 and then commit
+
+new branch
+adding new features
